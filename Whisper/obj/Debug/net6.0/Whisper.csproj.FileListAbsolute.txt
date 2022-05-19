@@ -1,0 +1,15 @@
+/home/konqi/RiderProjects/Whisper/Whisper/bin/Debug/net6.0/Whisper
+/home/konqi/RiderProjects/Whisper/Whisper/bin/Debug/net6.0/Whisper.deps.json
+/home/konqi/RiderProjects/Whisper/Whisper/bin/Debug/net6.0/Whisper.runtimeconfig.json
+/home/konqi/RiderProjects/Whisper/Whisper/bin/Debug/net6.0/Whisper.dll
+/home/konqi/RiderProjects/Whisper/Whisper/bin/Debug/net6.0/Whisper.pdb
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/Whisper.csproj.AssemblyReference.cache
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/Whisper.GeneratedMSBuildEditorConfig.editorconfig
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/Whisper.AssemblyInfoInputs.cache
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/Whisper.AssemblyInfo.cs
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/Whisper.csproj.CoreCompileInputs.cache
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/Whisper.dll
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/refint/Whisper.dll
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/Whisper.pdb
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/Whisper.genruntimeconfig.cache
+/home/konqi/RiderProjects/Whisper/Whisper/obj/Debug/net6.0/ref/Whisper.dll
